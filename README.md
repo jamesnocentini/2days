@@ -30,7 +30,8 @@ For the header menu items (main navigation), you can just edit `source/_data/men
 
 So to recap: `menu.yml` is responsible for declaring the top level nav items, `sidebar.yml` for the nav item in the sidebar (on the Guides & API pages). `en.yml` is the mapping between the nav item and text in English.
 
-![](Screen%20Shot%202015-03-28%20at%2015.13.58.png "Files responsible for the navigation")
+![](http://cl.ly/aQFY/Screen%20Shot%202015-03-28%20at%2015.13.58.png)
+
 
 Hexo has a concept of `data-files` to make some data available to any template, think of the properties in those files as being attached to the global scope.
 
@@ -38,9 +39,9 @@ Read more about [data files](http://hexo.io/docs/data-files.html).
 
 ### Helper files
 
-The scripts folder holds additional logic such as full text search
+The scripts folder holds additional logic for converting the `yml` navigation files to `html` tags.
 
-It’s using the `lodash`, `cheerio`, `lunr`.
+Dependencies for this folder are the `lodash`, `cheerio` and `lunr` modules.
 
 ### Layouts and Partials
 
@@ -48,7 +49,7 @@ There is a pre-existing theme called **couchbase** in the themes folder. Layout 
 
 ##### Syntax highlighting in WebStorm
 
-You can follow this StackOverflow [answer](http://stackoverflow.com/a/27389727/1908348) to have syntax highlighting in WebStorm.
+You can follow this StackOverflow [answer](http://stackoverflow.com/a/27389727/1908348) to have syntax highlighting for Swig templates.
 
 ### Logo
 
