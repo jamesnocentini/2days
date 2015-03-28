@@ -1,0 +1,37 @@
+guides:
+  getting_started:
+    overview: index.html
+    ios: ios.html
+    android: android.html
+    xamarin: xamarin.html
+  couchbase_lite:
+    manager: manager.html
+    database: database.html
+    document: document.html
+    revision: revision.html
+    attachment: attachment.html
+    view: view.html
+    query: query.html
+    replication: replication.html
+    model: model.html
+  sync_gateway:
+    running_sync_gateway: running_sg.html
+    configuration_and_administration: configuration_and_adminstration.html
+    data_routing: data_routing.html
+    sync_function: sync_function.html
+    working_web_apps: working_web_apps.html
+    connecting_backend_processes: connecting_backend_processes.html
+    deployment_considerations:
+    reverse_proxy:
+    acessing_views:
+    os_level_tunning:
+
+api:
+  couchbase_lite:
+    native_api:
+    rest_api:
+    release_notes:
+  sync_gateway:
+    rest_api:
+    admin_rest_api:
+    release_notes:

@@ -1,0 +1,55 @@
+menu:
+  guides: Guides
+  api: API
+  community: Community
+  forums: Forums
+  downloads: Downloads
+
+index:
+  get_started: Get started
+
+page:
+  contents: Contents
+  back_to_top: Back to Top
+  improve: Improve this doc
+  prev: Prev
+  next: Next
+  last_updated: "Last updated: %s"
+
+sidebar:
+  guides:
+    getting_started: Getting Started
+    overview: Overview
+    ios: iOS
+    android: Android
+    xamarin: Xamarin
+    couchbase_lite: Couchbase Lite
+    manager: Manager
+    database: Database
+    document: Document
+    revision: Revision
+    attachment: View
+    view: View
+    query: Query
+    replication: Replication
+    model: Model (iOS only)
+    sync_gateway: Sync Gateway
+    running_sync_gateway: Running Sync Gateway
+    configuration_and_administration: Configuration and administration
+    data_routing: Channels
+    sync_function: Sync Function
+    working_web_apps: Web apps
+    connecting_backend_processes: Backend processes
+    deployment_considerations: Deployment
+    reverse_proxy: Reverse proxy
+    acessing_views: Accessing Server Views
+    os_level_tunning: OS Level Tuning
+  api:
+    couchbase_lite: Couchbase Lite
+    native_api: Native API
+    rest_api: REST API
+    release_notes: Release Notes
+    sync_gateway: Sync Gateway
+    rest_api: REST API
+    admin_rest_api: Admin REST API
+    release_notes: Release Notes

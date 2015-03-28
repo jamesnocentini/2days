@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="750px" height="215px" viewBox="0 0 750 215" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logo" sketch:type="MSArtboardGroup" fill="#FFFFFF">
+            <g id="couchbase-icon-light-+-Couchbase" sketch:type="MSLayerGroup" transform="translate(51.000000, 48.000000)">
+                <g id="couchbase-icon-light" sketch:type="MSShapeGroup">
+                    <g id="g10" transform="translate(130.904255, 60.000000) scale(1, -1) translate(-130.904255, -60.000000) translate(0.404255, 0.000000)">
+                        <g id="g12" transform="translate(0.468085, 0.376866)">
+                            <path d="M239.571809,116.423172 C227.030404,117.272009 220.751511,117.648582 208.191851,118.251879 C203.635277,118.472407 199.879596,114.521032 199.86134,109.51819 C199.797447,93.5649067 199.86134,77.4854104 199.86134,61.4703974 C176.493596,60.8895896 153.104085,60.5703862 129.752723,60.5703862 C106.388723,60.5731399 82.9844681,60.8921138 59.6057234,61.4703974 C59.6104043,77.4854104 59.6522979,93.5371399 59.6267872,109.515437 C59.6176596,114.527228 55.8867872,118.472177 51.3000213,118.251649 C38.780617,117.652942 32.4759787,117.27178 19.9547021,116.422942 C8.98208511,115.681729 0.107659574,105.756823 0.107659574,94.3885019 C0.107659574,74.368416 0.187234043,54.2666362 0.107659574,34.3227369 C0.041893617,18.1973451 11.7110213,3.8919403 28.5035745,2.86089739 C62.0612979,0.802712687 96.167383,0.0775634328 129.752489,0.0803171642 C163.328468,0.0803171642 197.421915,0.807302239 230.983149,2.86089739 C247.78483,3.88895709 259.464957,18.1902313 259.395447,34.3227369 C259.309553,54.2595224 259.395447,74.368416 259.395447,94.3885019 C259.395915,105.756823 250.516809,115.681729 239.571809,116.423172" id="path32"></path>
+                        </g>
+                    </g>
+                </g>
+                <text id="Couchbase" sketch:type="MSTextLayer" font-family="Kievit" font-size="45" font-weight="473">
+                    <tspan x="299" y="51">Couchbase</tspan>
+                    <tspan x="299" y="101">Mobile Developers</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
