@@ -7,8 +7,8 @@
         <div id="plugin-list-count">{{ site.data[page.data].length }} items</div>
       </header>
       <ul id="plugin-list">
-        {% for plugin in _.sortBy(site.data[page.data], 'name') %}
-          {{ partial('partial/' + page.partial, {plugin: plugin}) }}
+        {% for app in _.sortBy(site.data[page.data], 'name') %}
+          {{ partial('partial/' + page.partial, {app: app}) }}
         {% endfor %}
       </ul>
     </div>

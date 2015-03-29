@@ -35,3 +35,10 @@ api:
     rest_api:
     admin_rest_api:
     release_notes:
+
+community:
+  community:
+    app_showcase: app_showcase.html
+    coffee_on_couchbase:
+    videos:
+    hackathon:

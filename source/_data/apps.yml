@@ -1,0 +1,55 @@
+- name: Ryanair
+  description: With this App at your fingertips, Europe is at your feet.
+  link: http://www.ryanair.com/
+  ios: https://itunes.apple.com/us/app/ryanair/id504270602?mt=8
+  android: https://play.google.com/store/apps/details?id=com.ryanair.cheapflights
+- name: Seen It
+  description: Co-create videos!
+  link: http://www.seenit.io/
+  ios:
+  android:
+- name: Spraed
+  description: Share what you like. In real life.
+  link: https://spraed.net/
+  ios: https://itunes.apple.com/us/app/clue-period-tracker/id657189652?mt=8
+  android: https://play.google.com/store/apps/details?id=com.clue.android&referrer=utm_source%3Dwebsite
+- name: Clue - Period Tracker
+  description: Confident. Scientific. Not pink
+  link: http://www.helloclue.com/
+  ios: https://itunes.apple.com/us/app/clue-period-tracker/id657189652?mt=8
+  android: https://play.google.com/store/apps/details?id=com.clue.android&referrer=utm_source%3Dwebsite
+- name: ScoreMore
+  description: Moneyball for all
+  link: https://scoremorebaseball.com/
+  ios: https://itunes.apple.com/ca/app/score-more-baseball/id945918911?ls=1&mt=8
+  android: https://play.google.com/store/apps/details?id=com.scoremorebaseball.scoremore
+- name: Mango Health
+  description: Why Take Control of Your Medication Routine?
+  link: https://www.mangohealth.com/
+  ios: https://itunes.apple.com/app/id560657279
+  android: https://play.google.com/store/apps/details?id=com.mangohealth.mango
+- name: Hub
+  description: Home & Family Organized
+  link: http://www.hubapp.com/
+  ios: https://itunes.apple.com/us/app/hub-family-organizer-shared/id614810693?mt=8
+  android: https://play.google.com/store/apps/details?id=com.ironark.hubapp
+- name: SelfPay
+  description: SelfPay means more sales, made simply
+  link: http://www.digitalretailapps.com/
+  ios: https://itunes.apple.com/ca/app/selfpay/id742788901?mt=8
+  android: https://play.google.com/store/apps/details?id=com.digitalretailapps.selfpay
+- name: ED Controls
+  description: Work Smart, Save Time
+  link: http://www.edcontrols.com/?lang=en
+  ios:
+  android:
+- name: FrontLog
+  description: Collaboration Over Cloud
+  link: http://www.thefrontlog.com/
+  ios: https://itunes.apple.com/us/app/frontlog/id838138638?ls=1&mt=8
+  android:
+- name: Kax Card
+  description: Introduce yourself
+  link: http://kaxcard.com/
+  ios:
+  android:

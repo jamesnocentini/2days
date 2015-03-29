@@ -53,3 +53,9 @@ sidebar:
     rest_api: REST API
     admin_rest_api: Admin REST API
     release_notes: Release Notes
+  community:
+    community: Community
+    app_showcase: App Showcase
+    coffee_on_couchbase: Coffee on Couchbase
+    videos: Videos
+    hackathon: Hackathon

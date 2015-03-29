@@ -16,6 +16,20 @@ The site is using [Hexo](http://hexo.io).
 - **source**: that’s where all the `.md` files are, you can write the documentation in Markdown as you would on GitHub
 - **theme**: holds the couchbase theme. You might want to look into it to style the theme.
 
+### Adding an App to the App Showcase
+
+1. Add an entry in `source/_data/apps.yml` with the following properties:
+	* name
+	* description
+	* link
+	* ios
+	* android
+	The ios and android properties are optional, the app store/play store images will be visible if you add these properties.
+2. Add a banner image for the app in `source/community/images`:
+	* size `175x175`
+	* format `png`
+	The filename should be the same as the **name** property you defined in `apps.yml`.
+
 ### Navigation items
 
 A couple of files hold the site index and localisation of the navigation items.
