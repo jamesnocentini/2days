@@ -1,5 +1,5 @@
-guides: /guides/
-api: /api/
-community: /community/
+guides: guides/
+api: api/
+community: community/
 forums: https://forums.couchbase.com/c/mobile
 downloads: http://www.couchbase.com/nosql-databases/downloads#Couchbase_Mobile

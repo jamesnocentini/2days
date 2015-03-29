@@ -10,6 +10,20 @@ The site is using [Hexo](http://hexo.io).
 2. Run `npm install` to install dependencies
 3. Run `hexo server` to generate the site. Hexo automatically detects when a file changed and rebuilds the site. Just reload your browser to see the changes.
 
+### Deployment
+
+A version of the site is hosted on the project page of the [mobile-staging](https://github.com/jamiltz/mobile-staging) repo (GitHub looks for the generated files on the `gh-pages` branch).
+
+The url is [jamiltz.github.io/mobile-staging/](http://jamiltz.github.io/mobile-staging/).
+
+To generate and deploy the site to the GitHub page:
+```bash
+$ hexo generate
+$ hero deploy
+```
+
+**Note:** In `_config.yml`, the deploy property holds the info such as the git repo to push to and the branch. The url and root properties need to have the `mobile-staging` root path appended. Hexo provides [other plugins](http://hexo.io/docs/deployment.html) for deployment. This section will likely change when we have a better solution to get the tip of master automatically deployed somewhere.
+
 ### General Project Structure
 
 - **scripts**: helper functions, you generally won’t have to look into it
